@@ -20,12 +20,6 @@ To set up the project, install dependencies:
 ```bash
 pip install torch torchvision torchaudio torch-geometric torch-scatter torch-sparse torch-cluster torch-spline-conv rdkit numpy pandas scikit-learn
 ```
-## Train the Model
-Run the training script to train your GNN model:
-
-```bash
-python train.py
-```
 This script:
 
 - Loads the dataset
